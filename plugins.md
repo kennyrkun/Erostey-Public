@@ -1,0 +1,54 @@
+As of 2019/07/8, the Erostey server utilisies 52 plugins.
+
+These plugins are:
+- AreaShop
+- BetterBanner
+- Brewery
+- Chairs
+- ChestShop
+- ChestSort
+- Citizens
+- CoreProtect
+- Crazy Auctions
+- CS-CoreLib
+- DolphinsGrace
+- DummyFawe
+- Erostey
+- EssentialsX
+- EssentialsXAntiBuild
+- EssentialsXChat
+- EssentialsXGeoIP
+- EssentialsXProtect
+- EssentialsXSpawn
+- Factions
+- GSit
+- HolographicDisplays
+- Magic
+- MarriageMaster
+- MassiveCore
+- mcMMO
+- Multiverse-Core
+- MythicMobs
+- nethewater
+- NoPlugins
+- nuvotifier
+- OpenInv
+- PermissionsEx
+- perworldinventory
+- PlayerParticles
+- PlugMan
+- ProtocolLib
+- PwnPlantGrowth
+- Sentinel
+- ServerlistMOTD
+- Skript
+- Slimefun4
+- SuperElytra
+- SuperTrails
+- SuperVanish
+- Vault
+- VotingPlugin
+- worldedit7rc2
+- worldguard7rc1
+- worldeditcui
+- XRayDetector
